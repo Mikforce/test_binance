@@ -36,6 +36,8 @@ pip install binance-connector
 
 ```
 3. Запустите приложение
+4. test.py содержит тесты
+
 
 ```
 
