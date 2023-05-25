@@ -1,5 +1,5 @@
 from unittest import TestCase
-from main import create_orders
+from main import create_binance_orders
 import unittest
 import random
 import math
